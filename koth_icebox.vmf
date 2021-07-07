@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8849"
-	"mapversion" "121"
+	"mapversion" "122"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -19,7 +19,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "121"
+	"mapversion" "122"
 	"classname" "worldspawn"
 	"coldworld" "1"
 	"detailmaterial" "detail/detailsprites_2fort"
@@ -31456,9 +31456,9 @@ world
 				"v" "6672 9376 3984"
 				"v" "6656 9376 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01BLU"
+			"material" "CONCRETE/COMPUTERWALL005B"
 			"uaxis" "[1 0 0 0] 0.5"
-			"vaxis" "[0 0 -1 0] 0.5"
+			"vaxis" "[0 0 -1 -195] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
