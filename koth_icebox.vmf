@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8849"
-	"mapversion" "125"
+	"mapversion" "126"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -19,7 +19,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "125"
+	"mapversion" "126"
 	"classname" "worldspawn"
 	"coldworld" "1"
 	"detailmaterial" "detail/detailsprites_2fort"
@@ -42210,11 +42210,11 @@ world
 				"v" "5616 10464 4000"
 				"v" "5616 10464 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -57762,11 +57762,11 @@ world
 				"v" "5632 9920 4176"
 				"v" "5632 10464 4176"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -58098,11 +58098,11 @@ world
 				"v" "5632 10080 3984"
 				"v" "5632 10080 4176"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
