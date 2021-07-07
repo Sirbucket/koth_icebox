@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8849"
-	"mapversion" "120"
+	"mapversion" "121"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -19,7 +19,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "120"
+	"mapversion" "121"
 	"classname" "worldspawn"
 	"coldworld" "1"
 	"detailmaterial" "detail/detailsprites_2fort"
@@ -29570,7 +29570,7 @@ world
 				"v" "7680 9192 4000"
 				"v" "8192 9192 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01BLU"
+			"material" "JAPAN/WOOD/JAPANESE_BLUEWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
