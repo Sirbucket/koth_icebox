@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8849"
-	"mapversion" "122"
+	"mapversion" "125"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -19,7 +19,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "122"
+	"mapversion" "125"
 	"classname" "worldspawn"
 	"coldworld" "1"
 	"detailmaterial" "detail/detailsprites_2fort"
@@ -40,7 +40,7 @@ world
 				"v" "2560 9200 4000"
 				"v" "2048 9200 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -176,7 +176,7 @@ world
 				"v" "2064 10240 4368"
 				"v" "2064 10240 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -276,7 +276,7 @@ world
 				"v" "2544 9568 4368"
 				"v" "2544 9200 4368"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -294,7 +294,7 @@ world
 				"v" "2560 9200 4368"
 				"v" "2560 9568 4368"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -348,7 +348,7 @@ world
 				"v" "2544 9200 4000"
 				"v" "2544 9200 4368"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -366,11 +366,11 @@ world
 				"v" "2560 9568 4000"
 				"v" "2560 9568 4368"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -394,7 +394,7 @@ world
 				"v" "2544 10256 4368"
 				"v" "2544 9888 4368"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -412,7 +412,7 @@ world
 				"v" "2560 9888 4368"
 				"v" "2560 10256 4368"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -466,7 +466,7 @@ world
 				"v" "2560 10256 4000"
 				"v" "2560 10256 4368"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -484,11 +484,11 @@ world
 				"v" "2544 9888 4000"
 				"v" "2544 9888 4368"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -512,7 +512,7 @@ world
 				"v" "2544 9568 4368"
 				"v" "2544 9568 4176"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -530,7 +530,7 @@ world
 				"v" "2560 9888 4368"
 				"v" "2560 9888 4176"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -602,11 +602,11 @@ world
 				"v" "2560 9568 4176"
 				"v" "2560 9888 4176"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -866,7 +866,7 @@ world
 				"v" "2432 9200 4368"
 				"v" "2544 9200 4368"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -884,7 +884,7 @@ world
 				"v" "2544 9216 4368"
 				"v" "2432 9216 4368"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -956,11 +956,11 @@ world
 				"v" "2432 9216 4000"
 				"v" "2432 9216 4368"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -984,7 +984,7 @@ world
 				"v" "2048 9200 4368"
 				"v" "2176 9200 4368"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -1002,7 +1002,7 @@ world
 				"v" "2176 9216 4368"
 				"v" "2048 9216 4368"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -1074,11 +1074,11 @@ world
 				"v" "2176 9200 4000"
 				"v" "2176 9200 4368"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -1102,7 +1102,7 @@ world
 				"v" "2432 9200 4368"
 				"v" "2432 9200 4176"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -1120,7 +1120,7 @@ world
 				"v" "2176 9216 4368"
 				"v" "2176 9216 4176"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -1192,11 +1192,11 @@ world
 				"v" "2176 9200 4176"
 				"v" "2432 9200 4176"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -1220,7 +1220,7 @@ world
 				"v" "2432 10240 4368"
 				"v" "2544 10240 4368"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -1238,7 +1238,7 @@ world
 				"v" "2544 10256 4368"
 				"v" "2432 10256 4368"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -1310,11 +1310,11 @@ world
 				"v" "2432 10256 4000"
 				"v" "2432 10256 4368"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -1338,7 +1338,7 @@ world
 				"v" "2048 10240 4368"
 				"v" "2176 10240 4368"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -1356,7 +1356,7 @@ world
 				"v" "2176 10256 4368"
 				"v" "2048 10256 4368"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -1428,11 +1428,11 @@ world
 				"v" "2176 10240 4000"
 				"v" "2176 10240 4368"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -1456,7 +1456,7 @@ world
 				"v" "2432 10240 4368"
 				"v" "2432 10240 4176"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -1474,7 +1474,7 @@ world
 				"v" "2176 10256 4368"
 				"v" "2176 10256 4176"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -1546,11 +1546,11 @@ world
 				"v" "2176 10240 4176"
 				"v" "2432 10240 4176"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -1574,7 +1574,7 @@ world
 				"v" "4608 8176 4000"
 				"v" "4096 8176 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -1692,7 +1692,7 @@ world
 				"v" "4096 8176 4000"
 				"v" "3584 8176 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -1810,7 +1810,7 @@ world
 				"v" "5504 8176 4000"
 				"v" "5120 8176 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -1928,7 +1928,7 @@ world
 				"v" "5120 8176 4000"
 				"v" "4608 8176 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -2046,7 +2046,7 @@ world
 				"v" "5632 8688 4000"
 				"v" "5120 8688 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -2164,7 +2164,7 @@ world
 				"v" "5120 8688 4000"
 				"v" "4608 8688 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -2282,7 +2282,7 @@ world
 				"v" "4096 10768 4000"
 				"v" "3584 10768 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -2400,7 +2400,7 @@ world
 				"v" "4608 10768 4000"
 				"v" "4096 10768 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -2518,7 +2518,7 @@ world
 				"v" "5120 10256 4000"
 				"v" "4608 10256 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -2636,7 +2636,7 @@ world
 				"v" "5632 10256 4000"
 				"v" "5120 10256 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -4006,11 +4006,11 @@ world
 				"v" "3072 10256 3984"
 				"v" "3584 10256 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -4024,11 +4024,11 @@ world
 				"v" "3072 9200 4000"
 				"v" "3584 9200 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -4914,7 +4914,7 @@ world
 				"v" "2576 11280 4000"
 				"v" "2576 10752 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -4950,7 +4950,7 @@ world
 				"v" "2576 10752 4000"
 				"v" "2560 10752 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -5068,7 +5068,7 @@ world
 				"v" "2560 10752 4000"
 				"v" "2064 10752 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -5150,7 +5150,7 @@ world
 				"v" "2064 10752 4000"
 				"v" "2064 10256 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -5268,7 +5268,7 @@ world
 				"v" "2576 8688 4000"
 				"v" "2576 8176 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -5386,7 +5386,7 @@ world
 				"v" "2576 8704 4000"
 				"v" "2576 8688 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -5440,7 +5440,7 @@ world
 				"v" "2576 8704 4512"
 				"v" "2064 8704 4512"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -5504,7 +5504,7 @@ world
 				"v" "2064 9200 4000"
 				"v" "2064 8704 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -5604,7 +5604,7 @@ world
 				"v" "2560 9200 4368"
 				"v" "2560 10256 4368"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -5644,11 +5644,11 @@ world
 				"v" "2560 9376 5248"
 				"v" "2560 10256 4823.44"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "64"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -5662,11 +5662,11 @@ world
 				"v" "2560 10256 4823.44"
 				"v" "2048 10256 4823.44"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "64"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -5680,11 +5680,11 @@ world
 				"v" "2048 9200 5114.66"
 				"v" "2560 9200 5114.66"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "64"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -5698,11 +5698,11 @@ world
 				"v" "2048 10256 4823.44"
 				"v" "2560 10256 4823.44"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "64"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -5716,11 +5716,11 @@ world
 				"v" "2560 9280 5248"
 				"v" "2560 9200 5114.67"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "64"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -5780,7 +5780,7 @@ world
 				"v" "5488 10896 4512"
 				"v" "5488 10768 4512"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -5798,7 +5798,7 @@ world
 				"v" "5504 10768 4512"
 				"v" "5504 10896 4512"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -5834,11 +5834,11 @@ world
 				"v" "5504 10896 4512"
 				"v" "5488 10896 4512"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -5898,7 +5898,7 @@ world
 				"v" "5488 11264 4512"
 				"v" "5488 11152 4512"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -5952,11 +5952,11 @@ world
 				"v" "5488 11152 4512"
 				"v" "5504 11152 4512"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -6016,7 +6016,7 @@ world
 				"v" "5488 8688 4496"
 				"v" "5488 8560 4496"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -6034,7 +6034,7 @@ world
 				"v" "5504 8560 4496"
 				"v" "5504 8688 4496"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -6052,11 +6052,11 @@ world
 				"v" "5488 8560 4496"
 				"v" "5504 8560 4496"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6134,7 +6134,7 @@ world
 				"v" "5488 8304 4496"
 				"v" "5488 8192 4496"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -6170,11 +6170,11 @@ world
 				"v" "5504 8304 4496"
 				"v" "5488 8304 4496"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6334,7 +6334,7 @@ world
 				"v" "5488 10768 4240"
 				"v" "5120 10768 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -6352,11 +6352,11 @@ world
 				"v" "5488 11264 4224"
 				"v" "5120 11264 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6452,7 +6452,7 @@ world
 				"v" "5120 10768 4240"
 				"v" "4608 10768 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -6470,11 +6470,11 @@ world
 				"v" "5120 11264 4224"
 				"v" "4608 11264 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6488,11 +6488,11 @@ world
 				"v" "4608 10768 4224"
 				"v" "4608 11264 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6570,7 +6570,7 @@ world
 				"v" "5184 10256 4240"
 				"v" "4608 10256 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -6588,11 +6588,11 @@ world
 				"v" "5184 10768 4224"
 				"v" "4608 10768 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6688,7 +6688,7 @@ world
 				"v" "4608 10256 4240"
 				"v" "4096 10256 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -6706,11 +6706,11 @@ world
 				"v" "4608 10752 4224"
 				"v" "4096 10752 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6806,7 +6806,7 @@ world
 				"v" "5120 8688 4240"
 				"v" "4608 8688 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -6824,11 +6824,11 @@ world
 				"v" "5120 9200 4224"
 				"v" "4608 9200 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6924,7 +6924,7 @@ world
 				"v" "5488 8176 4240"
 				"v" "5120 8176 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -6942,11 +6942,11 @@ world
 				"v" "5488 8688 4224"
 				"v" "5120 8688 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7042,7 +7042,7 @@ world
 				"v" "5120 8176 4240"
 				"v" "4608 8176 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -7060,11 +7060,11 @@ world
 				"v" "5120 8688 4224"
 				"v" "4608 8688 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7160,7 +7160,7 @@ world
 				"v" "4608 8688 4240"
 				"v" "4096 8688 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -7178,11 +7178,11 @@ world
 				"v" "4608 9200 4224"
 				"v" "4096 9200 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7314,7 +7314,7 @@ world
 				"v" "3568 11264 4512"
 				"v" "3568 11200 4512"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -7332,7 +7332,7 @@ world
 				"v" "3584 11200 4512"
 				"v" "3584 11264 4512"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -7368,11 +7368,11 @@ world
 				"v" "3568 11200 4512"
 				"v" "3584 11200 4512"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -7414,7 +7414,7 @@ world
 				"v" "3568 10944 4512"
 				"v" "3568 10944 4160"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -7432,7 +7432,7 @@ world
 				"v" "3584 11200 4512"
 				"v" "3584 11200 4160"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -7486,11 +7486,11 @@ world
 				"v" "3584 10944 4160"
 				"v" "3584 11200 4160"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -7550,7 +7550,7 @@ world
 				"v" "4608 8176 4000"
 				"v" "4608 8688 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -7568,7 +7568,7 @@ world
 				"v" "4624 8176 4224"
 				"v" "4624 8688 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -7668,7 +7668,7 @@ world
 				"v" "4608 10768 4000"
 				"v" "4608 11264 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -7686,7 +7686,7 @@ world
 				"v" "4624 10768 4224"
 				"v" "4624 11264 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -7750,7 +7750,7 @@ world
 				"v" "4096 10768 4240"
 				"v" "3584 10768 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -7768,11 +7768,11 @@ world
 				"v" "4096 11264 4224"
 				"v" "3584 11264 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7868,7 +7868,7 @@ world
 				"v" "4608 11008 4240"
 				"v" "4608 10752 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -7886,11 +7886,11 @@ world
 				"v" "4608 10752 4224"
 				"v" "4608 11008 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7958,11 +7958,11 @@ world
 				"v" "4608 11008 4240"
 				"v" "4096 11008 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -7986,7 +7986,7 @@ world
 				"v" "4352 11264 4240"
 				"v" "4352 11008 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -8004,11 +8004,11 @@ world
 				"v" "4352 11008 4224"
 				"v" "4352 11264 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8076,11 +8076,11 @@ world
 				"v" "4352 11008 4240"
 				"v" "4352 11264 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -8104,7 +8104,7 @@ world
 				"v" "4096 8176 4240"
 				"v" "3584 8176 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -8122,11 +8122,11 @@ world
 				"v" "4096 8688 4224"
 				"v" "3584 8688 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8222,7 +8222,7 @@ world
 				"v" "4352 8688 4240"
 				"v" "4352 8448 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -8240,11 +8240,11 @@ world
 				"v" "4352 8448 4224"
 				"v" "4352 8688 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8340,7 +8340,7 @@ world
 				"v" "4608 8448 4240"
 				"v" "4352 8448 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -8358,11 +8358,11 @@ world
 				"v" "4608 8688 4224"
 				"v" "4352 8688 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8458,7 +8458,7 @@ world
 				"v" "4352 8448 4240"
 				"v" "4352 8176 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -8476,11 +8476,11 @@ world
 				"v" "4352 8176 4224"
 				"v" "4352 8448 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8612,7 +8612,7 @@ world
 				"v" "3568 8256 4512"
 				"v" "3568 8192 4512"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -8630,7 +8630,7 @@ world
 				"v" "3584 8192 4512"
 				"v" "3584 8256 4512"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -8666,11 +8666,11 @@ world
 				"v" "3584 8256 4512"
 				"v" "3568 8256 4512"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -8712,7 +8712,7 @@ world
 				"v" "3568 8256 4512"
 				"v" "3568 8256 4160"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -8730,7 +8730,7 @@ world
 				"v" "3584 8448 4512"
 				"v" "3584 8448 4160"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -8784,11 +8784,11 @@ world
 				"v" "3584 8256 4160"
 				"v" "3584 8448 4160"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -8848,7 +8848,7 @@ world
 				"v" "4096 8288 4224"
 				"v" "4096 8176 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -8866,7 +8866,7 @@ world
 				"v" "4112 8176 4224"
 				"v" "4112 8288 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -8902,11 +8902,11 @@ world
 				"v" "4112 8288 4224"
 				"v" "4096 8288 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -8966,7 +8966,7 @@ world
 				"v" "4096 8688 4224"
 				"v" "4096 8432 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -8984,7 +8984,7 @@ world
 				"v" "4112 8432 4224"
 				"v" "4112 8688 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -9020,11 +9020,11 @@ world
 				"v" "4096 8432 4224"
 				"v" "4112 8432 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -9066,7 +9066,7 @@ world
 				"v" "4096 8288 4224"
 				"v" "4096 8288 4128"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -9084,7 +9084,7 @@ world
 				"v" "4112 8432 4224"
 				"v" "4112 8432 4128"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -9138,11 +9138,11 @@ world
 				"v" "4112 8288 4128"
 				"v" "4112 8432 4128"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -9184,8 +9184,8 @@ world
 				"v" "3584 10768 4000"
 				"v" "4096 10768 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
-			"uaxis" "[1 0 0 32] 0.516129"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
+			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -9320,7 +9320,7 @@ world
 				"v" "4080 8688 4512"
 				"v" "4080 8688 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -9438,7 +9438,7 @@ world
 				"v" "3568 8704 4512"
 				"v" "3568 8448 4512"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -9456,7 +9456,7 @@ world
 				"v" "3584 8448 4512"
 				"v" "3584 8704 4512"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -9474,11 +9474,11 @@ world
 				"v" "3568 8448 4512"
 				"v" "3584 8448 4512"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9556,7 +9556,7 @@ world
 				"v" "3568 10944 4512"
 				"v" "3568 10752 4512"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -9574,7 +9574,7 @@ world
 				"v" "3584 10752 4512"
 				"v" "3584 10944 4512"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -9592,11 +9592,11 @@ world
 				"v" "3584 10944 4512"
 				"v" "3568 10944 4512"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9656,7 +9656,7 @@ world
 				"v" "4080 8704 4240"
 				"v" "4672 8704 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -9674,7 +9674,7 @@ world
 				"v" "4672 8688 4496"
 				"v" "4672 8688 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -9728,11 +9728,11 @@ world
 				"v" "4672 8704 4496"
 				"v" "4672 8704 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -9774,7 +9774,7 @@ world
 				"v" "4080 10768 4240"
 				"v" "4672 10768 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -9792,7 +9792,7 @@ world
 				"v" "4672 10752 4496"
 				"v" "4672 10752 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -9846,11 +9846,11 @@ world
 				"v" "4672 10768 4496"
 				"v" "4672 10768 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -9874,7 +9874,7 @@ world
 				"v" "5184 10256 4240"
 				"v" "5184 10464 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -9892,11 +9892,11 @@ world
 				"v" "5184 10464 4224"
 				"v" "5184 10256 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9992,7 +9992,7 @@ world
 				"v" "5616 10768 4240"
 				"v" "5616 10576 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -10110,7 +10110,7 @@ world
 				"v" "5616 10464 4240"
 				"v" "5456 10464 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -10228,11 +10228,11 @@ world
 				"v" "5456.25 10576 4112"
 				"v" "5456.25 10480 4112"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10264,7 +10264,7 @@ world
 				"v" "5391.68 10576 4112"
 				"v" "5391.68 10480 4112"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -10282,7 +10282,7 @@ world
 				"v" "5456.25 10480 4112"
 				"v" "5456.25 10576 4112"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -10318,11 +10318,11 @@ world
 				"v" "5391.68 10480 4112"
 				"v" "5456.25 10480 4112"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -10364,7 +10364,7 @@ world
 				"v" "5184 10512 4240"
 				"v" "5184 10512 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -10418,7 +10418,7 @@ world
 				"v" "5184 10512 4240"
 				"v" "5392 10512 4112"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -10436,11 +10436,11 @@ world
 				"v" "5392 10512 4112"
 				"v" "5184 10512 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -10500,7 +10500,7 @@ world
 				"v" "5456 10464 4000"
 				"v" "5456 10480 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -10554,7 +10554,7 @@ world
 				"v" "5456 10464 4224"
 				"v" "5616 10464 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -10582,11 +10582,11 @@ world
 				"v" "5456 9072 4112"
 				"v" "5456 8960 4112"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10618,7 +10618,7 @@ world
 				"v" "5456 9264 3984"
 				"v" "5456 8960 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -10636,7 +10636,7 @@ world
 				"v" "5391.43 8960 3984"
 				"v" "5391.43 9264 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -10672,11 +10672,11 @@ world
 				"v" "5391.43 9264 3984"
 				"v" "5456 9264 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -10718,7 +10718,7 @@ world
 				"v" "5184 8960 4000"
 				"v" "5184 9024 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -10754,8 +10754,8 @@ world
 				"v" "5184 9024 4000"
 				"v" "5392 9024 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
-			"uaxis" "[1 0 0 61.5388] 0.541667"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
+			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -10790,11 +10790,11 @@ world
 				"v" "5184 8960 4240"
 				"v" "5184 9024 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
-			"uaxis" "[1 0 0 61.5388] 0.541667"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
+			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -10890,8 +10890,8 @@ world
 				"v" "5456 8960 4000"
 				"v" "5456 8960 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
-			"uaxis" "[1 0 0 42] 0.533333"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
+			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -10954,7 +10954,7 @@ world
 				"v" "4096 9744 4000"
 				"v" "4672 9744 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -10972,7 +10972,7 @@ world
 				"v" "4672 9712 4224"
 				"v" "4672 9712 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -11026,11 +11026,11 @@ world
 				"v" "4672 9744 4224"
 				"v" "4672 9744 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -11108,7 +11108,7 @@ world
 				"v" "5456 9088 4000"
 				"v" "5472 9088 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -11126,7 +11126,7 @@ world
 				"v" "5456 9088 4224"
 				"v" "5456 8960 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -11244,7 +11244,7 @@ world
 				"v" "5184 8704 4000"
 				"v" "5184 8960 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -11362,7 +11362,7 @@ world
 				"v" "5616 9088 4000"
 				"v" "5616 9088 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -11480,7 +11480,7 @@ world
 				"v" "5184 10592 4000"
 				"v" "5184 10752 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -11562,7 +11562,7 @@ world
 				"v" "5184 10576 4000"
 				"v" "5184 10592 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -11616,7 +11616,7 @@ world
 				"v" "5184 10576 4224"
 				"v" "5456 10576 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -11680,7 +11680,7 @@ world
 				"v" "5472 10464 3984"
 				"v" "5456 10464 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -11716,7 +11716,7 @@ world
 				"v" "5456 10464 3984"
 				"v" "5456 10592 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -11780,7 +11780,7 @@ world
 				"v" "4672 9744 4192"
 				"v" "5056 9744 4192"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -11798,7 +11798,7 @@ world
 				"v" "5056 9712 4224"
 				"v" "5056 9712 4192"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -11834,11 +11834,11 @@ world
 				"v" "4672 9712 4192"
 				"v" "5056 9712 4192"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -19580,11 +19580,11 @@ world
 				"v" "4336 8288 4000"
 				"v" "4336 8416 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -19643,7 +19643,7 @@ world
 				"v" "4336 11040 4000"
 				"v" "4608 11040 4239.36"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -19660,7 +19660,7 @@ world
 				"v" "4608 11168 4000"
 				"v" "4608 11168 4239.36"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -19678,11 +19678,11 @@ world
 				"v" "4336 11040 4000"
 				"v" "4336 11168 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -19742,7 +19742,7 @@ world
 				"v" "4096 11264 4224"
 				"v" "4096 11168 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -19760,7 +19760,7 @@ world
 				"v" "4112 11168 4224"
 				"v" "4112 11264 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -19796,11 +19796,11 @@ world
 				"v" "4096 11168 4224"
 				"v" "4112 11168 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -19860,7 +19860,7 @@ world
 				"v" "4096 11024 4224"
 				"v" "4096 10768 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -19878,7 +19878,7 @@ world
 				"v" "4112 10768 4224"
 				"v" "4112 11024 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -19914,11 +19914,11 @@ world
 				"v" "4112 11024 4224"
 				"v" "4096 11024 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -19960,7 +19960,7 @@ world
 				"v" "4096 11024 4224"
 				"v" "4096 11024 4144"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -19978,7 +19978,7 @@ world
 				"v" "4112 11168 4224"
 				"v" "4112 11168 4144"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -20032,11 +20032,11 @@ world
 				"v" "4112 11024 4144"
 				"v" "4112 11168 4144"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -20060,7 +20060,7 @@ world
 				"v" "4720 8704 4000"
 				"v" "4720 8704 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -20078,7 +20078,7 @@ world
 				"v" "4080 8688 4224"
 				"v" "4720 8688 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -20150,11 +20150,11 @@ world
 				"v" "4720 8688 4000"
 				"v" "4720 8688 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -20196,11 +20196,11 @@ world
 				"v" "5504 8304 4432"
 				"v" "5504 8560 4432"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -20214,7 +20214,7 @@ world
 				"v" "5488 8560 4496"
 				"v" "5488 8304 4496"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -20232,7 +20232,7 @@ world
 				"v" "5504 8304 4496"
 				"v" "5504 8560 4496"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -20550,11 +20550,11 @@ world
 				"v" "5504 10896 4432"
 				"v" "5504 11152 4432"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -20568,7 +20568,7 @@ world
 				"v" "5488 11152 4496"
 				"v" "5488 10896 4496"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -20586,7 +20586,7 @@ world
 				"v" "5504 10896 4496"
 				"v" "5504 11152 4496"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -20668,11 +20668,11 @@ world
 				"v" "5504 10896 4160"
 				"v" "5504 11152 4160"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -20686,7 +20686,7 @@ world
 				"v" "5488 11152 4240"
 				"v" "5488 10896 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -20904,11 +20904,11 @@ world
 				"v" "5504 8304 4160"
 				"v" "5504 8560 4160"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -20922,7 +20922,7 @@ world
 				"v" "5488 8560 4240"
 				"v" "5488 8304 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -22202,7 +22202,7 @@ world
 				"v" "5136 10752 4432"
 				"v" "4672 10752 4432"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -22220,7 +22220,7 @@ world
 				"v" "4672 10768 4496"
 				"v" "4672 10768 4432"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -22256,11 +22256,11 @@ world
 				"v" "5136 10768 4432"
 				"v" "4672 10768 4432"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -22320,7 +22320,7 @@ world
 				"v" "5120 8688 4432"
 				"v" "4672 8688 4432"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -22338,7 +22338,7 @@ world
 				"v" "4672 8704 4496"
 				"v" "4672 8704 4432"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -22374,11 +22374,11 @@ world
 				"v" "5120 8704 4432"
 				"v" "4672 8704 4432"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -22438,7 +22438,7 @@ world
 				"v" "5088 8688 4160"
 				"v" "4720 8688 4160"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -22456,7 +22456,7 @@ world
 				"v" "4720 8704 4224"
 				"v" "4720 8704 4160"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -22492,11 +22492,11 @@ world
 				"v" "5088 8704 4160"
 				"v" "4720 8704 4160"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -22556,7 +22556,7 @@ world
 				"v" "5088 10752 4160"
 				"v" "4720 10752 4160"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -22574,7 +22574,7 @@ world
 				"v" "4720 10768 4224"
 				"v" "4720 10768 4160"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -22610,11 +22610,11 @@ world
 				"v" "5088 10768 4160"
 				"v" "4720 10768 4160"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -22746,11 +22746,11 @@ world
 				"v" "3072 10432 4000"
 				"v" "3584 10432 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -22792,11 +22792,11 @@ world
 				"v" "3584 10432 3984"
 				"v" "3344 10432 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -22864,11 +22864,11 @@ world
 				"v" "3344 10432 4000"
 				"v" "3344 10256 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -22962,11 +22962,11 @@ world
 				"v" "3456 10432 3760"
 				"v" "3456 10256 3760"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -23080,7 +23080,7 @@ world
 				"v" "3088 10432 3984"
 				"v" "4592 10432 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -23180,7 +23180,7 @@ world
 				"v" "3088 10256 3760"
 				"v" "3728 10256 3760"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -23280,7 +23280,7 @@ world
 				"v" "3744 10064 3984"
 				"v" "3744 10256 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -23298,7 +23298,7 @@ world
 				"v" "3728 10256 3760"
 				"v" "3744 10256 3760"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -23434,7 +23434,7 @@ world
 				"v" "3744 10080 3760"
 				"v" "3936 10080 3760"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -23498,7 +23498,7 @@ world
 				"v" "3936 10064 3760"
 				"v" "3936 10256 3760"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -23534,7 +23534,7 @@ world
 				"v" "3936 10256 3760"
 				"v" "3952 10256 3760"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -23580,7 +23580,7 @@ world
 				"v" "3936 10080 3760"
 				"v" "3744 10080 3760"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -23698,7 +23698,7 @@ world
 				"v" "3744 10256 3760"
 				"v" "3456 10256 3760"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -23816,7 +23816,7 @@ world
 				"v" "4224 10256 3760"
 				"v" "3936 10256 3760"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -24004,11 +24004,11 @@ world
 				"v" "4224 10256 3760"
 				"v" "4224 10432 3760"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -24104,7 +24104,7 @@ world
 				"v" "3952 10256 3760"
 				"v" "4592 10256 3760"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -24150,7 +24150,7 @@ world
 				"v" "4608 10768 4000"
 				"v" "4608 10432 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -24240,11 +24240,11 @@ world
 				"v" "4096 10432 4000"
 				"v" "4608 10432 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -24268,7 +24268,7 @@ world
 				"v" "4336 10432 4000"
 				"v" "4336 10256 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -24286,11 +24286,11 @@ world
 				"v" "4336 10256 3984"
 				"v" "4336 10432 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -24358,11 +24358,11 @@ world
 				"v" "4336 10256 4000"
 				"v" "4336 10432 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -24404,11 +24404,11 @@ world
 				"v" "4096 10256 3984"
 				"v" "4096 10432 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -24522,11 +24522,11 @@ world
 				"v" "3936 10256 3984"
 				"v" "3744 10256 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -24692,11 +24692,11 @@ world
 				"v" "4224 9024 3760"
 				"v" "4224 9200 3760"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -24720,7 +24720,7 @@ world
 				"v" "4096 9200 4000"
 				"v" "4336 9200 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -24738,11 +24738,11 @@ world
 				"v" "4096 9024 3984"
 				"v" "4336 9024 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -24810,11 +24810,11 @@ world
 				"v" "4336 9024 4000"
 				"v" "4336 9200 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -24838,7 +24838,7 @@ world
 				"v" "4096 8688 4000"
 				"v" "4096 9024 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -24928,11 +24928,11 @@ world
 				"v" "4608 9024 4000"
 				"v" "4096 9024 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -25046,7 +25046,7 @@ world
 				"v" "4592 9024 3984"
 				"v" "3088 9024 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -25074,7 +25074,7 @@ world
 				"v" "3936 9200 3760"
 				"v" "4224 9200 3760"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -25264,7 +25264,7 @@ world
 				"v" "4592 9200 3760"
 				"v" "3952 9200 3760"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -25310,7 +25310,7 @@ world
 				"v" "3744 9376 3760"
 				"v" "3936 9376 3760"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -25464,7 +25464,7 @@ world
 				"v" "3744 9392 3760"
 				"v" "3744 9200 3760"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -25500,7 +25500,7 @@ world
 				"v" "3744 9200 3760"
 				"v" "3728 9200 3760"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -25636,7 +25636,7 @@ world
 				"v" "3936 9376 3760"
 				"v" "3744 9376 3760"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -25718,7 +25718,7 @@ world
 				"v" "3936 9392 3984"
 				"v" "3936 9200 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -25736,7 +25736,7 @@ world
 				"v" "3952 9200 3760"
 				"v" "3936 9200 3760"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -25782,7 +25782,7 @@ world
 				"v" "3456 9200 3760"
 				"v" "3744 9200 3760"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -25970,11 +25970,11 @@ world
 				"v" "3456 9200 3760"
 				"v" "3456 9024 3760"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -26070,7 +26070,7 @@ world
 				"v" "3728 9200 3760"
 				"v" "3088 9200 3760"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -26134,11 +26134,11 @@ world
 				"v" "3344 9200 3984"
 				"v" "3344 9024 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -26206,11 +26206,11 @@ world
 				"v" "3344 9200 4000"
 				"v" "3344 9024 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -26324,11 +26324,11 @@ world
 				"v" "3584 9024 4000"
 				"v" "3072 9024 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -26370,11 +26370,11 @@ world
 				"v" "4096 9024 3984"
 				"v" "4096 9200 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -26488,11 +26488,11 @@ world
 				"v" "3936 9376 3984"
 				"v" "3744 9376 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29806,7 +29806,7 @@ world
 				"v" "5632 9744 3760"
 				"v" "5872 9744 3760"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -29824,7 +29824,7 @@ world
 				"v" "5632 9712 3984"
 				"v" "5872 9712 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -29950,7 +29950,7 @@ world
 				"v" "5632 10256 4000"
 				"v" "5632 10096 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -30068,7 +30068,7 @@ world
 				"v" "5632 9344 4000"
 				"v" "5632 9200 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -30358,7 +30358,7 @@ world
 				"v" "5632 8304 3984"
 				"v" "5632 8688 3984"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -31756,7 +31756,7 @@ world
 				"v" "5632 10768 3984"
 				"v" "5632 11152 3984"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -33172,11 +33172,11 @@ world
 				"v" "5872 8688 3760"
 				"v" "5872 8704 3760"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -37300,7 +37300,7 @@ world
 				"v" "5504 10768 4496"
 				"v" "5136 10768 4496"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -37318,7 +37318,7 @@ world
 				"v" "5504 10752 4224"
 				"v" "5136 10752 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -37354,11 +37354,11 @@ world
 				"v" "5136 10752 4496"
 				"v" "5136 10752 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -37436,7 +37436,7 @@ world
 				"v" "5632 10752 4224"
 				"v" "5504 10752 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -39206,7 +39206,7 @@ world
 				"v" "5632 10224 4512"
 				"v" "6080 10224 4512"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -39424,7 +39424,7 @@ world
 				"v" "5632 9232 4240"
 				"v" "6080 9232 4240"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -39524,7 +39524,7 @@ world
 				"v" "5632 9376 4240"
 				"v" "6064 9376 4240"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -39614,11 +39614,11 @@ world
 				"v" "6064 9376 4240"
 				"v" "5632 9376 4240"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
-			"uaxis" "[1 0 0 104.297] 0.675"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
+			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -39642,7 +39642,7 @@ world
 				"v" "6064 9728 4240"
 				"v" "6064 9616 4240"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -39732,11 +39732,11 @@ world
 				"v" "5632 9616 4240"
 				"v" "6064 9616 4240"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
-			"uaxis" "[1 0 0 104.297] 0.675"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
+			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -39760,7 +39760,7 @@ world
 				"v" "6064 9376 4240"
 				"v" "5824 9376 4240"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -39850,11 +39850,11 @@ world
 				"v" "5824 9616 4240"
 				"v" "5824 9376 4240"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -39878,7 +39878,7 @@ world
 				"v" "5632 9616 4240"
 				"v" "5696 9616 4240"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -39968,11 +39968,11 @@ world
 				"v" "5696 9376 4240"
 				"v" "5696 9616 4240"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -40722,7 +40722,7 @@ world
 				"v" "5632 9744 4240"
 				"v" "6080 9744 4240"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -40740,7 +40740,7 @@ world
 				"v" "5632 9728 4512"
 				"v" "6080 9728 4512"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -40822,7 +40822,7 @@ world
 				"v" "6080 10240 4240"
 				"v" "6080 9728 4240"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -41884,7 +41884,7 @@ world
 				"v" "4608 11280 4000"
 				"v" "5504 11280 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -42002,7 +42002,7 @@ world
 				"v" "5184 10768 4224"
 				"v" "5088 10768 4224"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -42020,7 +42020,7 @@ world
 				"v" "5088 10752 4224"
 				"v" "5184 10752 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -42074,11 +42074,11 @@ world
 				"v" "5088 10768 4000"
 				"v" "5088 10768 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -42156,7 +42156,7 @@ world
 				"v" "5632 10464 4000"
 				"v" "5632 10464 4240"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -42238,7 +42238,7 @@ world
 				"v" "5200 8704 4224"
 				"v" "5088 8704 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -42256,7 +42256,7 @@ world
 				"v" "5088 8688 4224"
 				"v" "5200 8688 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -42310,11 +42310,11 @@ world
 				"v" "5088 8704 4000"
 				"v" "5088 8704 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -42492,7 +42492,7 @@ world
 				"v" "5200 8688 4224"
 				"v" "5488 8688 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -42628,7 +42628,7 @@ world
 				"v" "5632 8704 4240"
 				"v" "5632 9088 4240"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -42710,7 +42710,7 @@ world
 				"v" "5616 9072 4240"
 				"v" "5456 9072 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -42728,11 +42728,11 @@ world
 				"v" "5616 9216 4224"
 				"v" "5456 9216 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -42828,8 +42828,8 @@ world
 				"v" "5184 9216 4240"
 				"v" "5456 9216 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
-			"uaxis" "[1 0 0 -126.118] 0.53125"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
+			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -42846,11 +42846,11 @@ world
 				"v" "5184 9072 4224"
 				"v" "5456 9072 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
-			"uaxis" "[1 0 0 -126.118] 0.53125"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
+			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -42882,11 +42882,11 @@ world
 				"v" "5184 9072 4240"
 				"v" "5456 9072 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
-			"uaxis" "[1 0 0 -126.118] 0.53125"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
+			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -42946,8 +42946,8 @@ world
 				"v" "5184 8960 4240"
 				"v" "5184 8704 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
-			"uaxis" "[1 0 0 0] 0.4"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
+			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -42964,11 +42964,11 @@ world
 				"v" "5184 8704 4224"
 				"v" "5184 8960 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
-			"uaxis" "[1 0 0 0] 0.4"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
+			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -43064,8 +43064,8 @@ world
 				"v" "5184 8960 4240"
 				"v" "5120 8960 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
-			"uaxis" "[1 0 0 0] 0.4"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
+			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -43082,11 +43082,11 @@ world
 				"v" "5184 9072 4224"
 				"v" "5120 9072 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
-			"uaxis" "[1 0 0 0] 0.4"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
+			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -43100,11 +43100,11 @@ world
 				"v" "5184 8960 4240"
 				"v" "5184 9072 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -43182,8 +43182,8 @@ world
 				"v" "5120 9216 4240"
 				"v" "5184 9216 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
-			"uaxis" "[1 0 0 0] 0.4"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
+			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -43200,11 +43200,11 @@ world
 				"v" "5120 9072 4224"
 				"v" "5184 9072 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
-			"uaxis" "[1 0 0 0] 0.4"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
+			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -44380,11 +44380,11 @@ world
 				"v" "5504 11280 4496"
 				"v" "5120 11280 4496"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -44498,11 +44498,11 @@ world
 				"v" "5120 11280 4496"
 				"v" "4608 11280 4496"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -44616,11 +44616,11 @@ world
 				"v" "4608 11280 4496"
 				"v" "4096 11280 4496"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -44734,11 +44734,11 @@ world
 				"v" "4096 11280 4496"
 				"v" "3584 11280 4496"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -44852,11 +44852,11 @@ world
 				"v" "5504 8688 4496"
 				"v" "5120 8688 4496"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -44970,11 +44970,11 @@ world
 				"v" "5120 8688 4496"
 				"v" "4608 8688 4496"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -45088,11 +45088,11 @@ world
 				"v" "4608 8688 4496"
 				"v" "4096 8688 4496"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -45206,11 +45206,11 @@ world
 				"v" "4096 8688 4496"
 				"v" "3584 8688 4496"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -45324,11 +45324,11 @@ world
 				"v" "4864 10256 4496"
 				"v" "4864 10768 4496"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -45442,11 +45442,11 @@ world
 				"v" "5632 10768 4496"
 				"v" "4864 10768 4496"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -45560,11 +45560,11 @@ world
 				"v" "4864 9744 4496"
 				"v" "4864 10256 4496"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -45678,11 +45678,11 @@ world
 				"v" "5632 10256 4496"
 				"v" "4864 10256 4496"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -45796,11 +45796,11 @@ world
 				"v" "4864 9216 4496"
 				"v" "4864 9744 4496"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -45914,11 +45914,11 @@ world
 				"v" "5632 9744 4496"
 				"v" "4864 9744 4496"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -46032,11 +46032,11 @@ world
 				"v" "4864 8688 4496"
 				"v" "4864 9216 4496"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -46150,11 +46150,11 @@ world
 				"v" "5632 9216 4496"
 				"v" "4864 9216 4496"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -46250,8 +46250,8 @@ world
 				"v" "5456 8704 4240"
 				"v" "5184 8704 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
-			"uaxis" "[1 0 0 1.88232] 0.53125"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
+			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -46304,11 +46304,11 @@ world
 				"v" "5456 8960 4240"
 				"v" "5184 8960 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
-			"uaxis" "[1 0 0 1.88232] 0.53125"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
+			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -46368,7 +46368,7 @@ world
 				"v" "5616 8960 4240"
 				"v" "5456 8960 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -46458,11 +46458,11 @@ world
 				"v" "5456 9072 4240"
 				"v" "5456 8960 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -46486,7 +46486,7 @@ world
 				"v" "5616 8704 4240"
 				"v" "5456 8704 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -46604,7 +46604,7 @@ world
 				"v" "5616 9744 4496"
 				"v" "4848 9744 4496"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -46622,7 +46622,7 @@ world
 				"v" "4848 9712 4240"
 				"v" "4848 9712 4496"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -46722,7 +46722,7 @@ world
 				"v" "4848 9744 4240"
 				"v" "4848 9744 4496"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -46740,7 +46740,7 @@ world
 				"v" "4096 9712 4496"
 				"v" "4848 9712 4496"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -46876,7 +46876,7 @@ world
 				"v" "4096 9728 4496"
 				"v" "4096 9728 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -46994,7 +46994,7 @@ world
 				"v" "4096 8704 4240"
 				"v" "4096 9728 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -47112,7 +47112,7 @@ world
 				"v" "4096 10752 4496"
 				"v" "4096 10752 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -47230,7 +47230,7 @@ world
 				"v" "4096 9728 4240"
 				"v" "4096 10752 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -47312,7 +47312,7 @@ world
 				"v" "4096 9728 4000"
 				"v" "4336 9728 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -47430,7 +47430,7 @@ world
 				"v" "4336 10256 4000"
 				"v" "4336 9728 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -47548,7 +47548,7 @@ world
 				"v" "4336 9200 4000"
 				"v" "4336 9728 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -47602,11 +47602,11 @@ world
 				"v" "4336 9200 4000"
 				"v" "4608 9200 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -47666,7 +47666,7 @@ world
 				"v" "4608 9728 4000"
 				"v" "4336 9728 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -47720,11 +47720,11 @@ world
 				"v" "4608 10256 4000"
 				"v" "4336 10256 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -47784,7 +47784,7 @@ world
 				"v" "5120 9728 4000"
 				"v" "5232 9728 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -47902,7 +47902,7 @@ world
 				"v" "5232 10096 4000"
 				"v" "5232 9728 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -48020,7 +48020,7 @@ world
 				"v" "5120 9728 4000"
 				"v" "5120 9200 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -48138,7 +48138,7 @@ world
 				"v" "5120 10256 4000"
 				"v" "5120 9728 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -48309,11 +48309,11 @@ world
 				"v" "5632 9712 3760"
 				"v" "5632 9360 3760"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -48407,11 +48407,11 @@ world
 				"v" "5632 10080 3760"
 				"v" "5632 9728 3760"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -48452,7 +48452,7 @@ world
 				"v" "5872 10768 3760"
 				"v" "5872 10240 3760"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -48570,7 +48570,7 @@ world
 				"v" "5872 10240 3760"
 				"v" "5872 9728 3760"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -48688,7 +48688,7 @@ world
 				"v" "5872 9728 3760"
 				"v" "5872 9200 3760"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -48806,7 +48806,7 @@ world
 				"v" "5872 9200 3760"
 				"v" "5872 8688 3760"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -49374,11 +49374,11 @@ world
 				"v" "5888 8704 3984"
 				"v" "5888 9216 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
-			"vaxis" "[0 -1 0 64] 0.484848"
+			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -49492,11 +49492,11 @@ world
 				"v" "5888 9216 3984"
 				"v" "5888 9728 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -49610,11 +49610,11 @@ world
 				"v" "5616 10240 3984"
 				"v" "5888 10240 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
-			"vaxis" "[0 -1 0 0] 0.484849"
+			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -49728,11 +49728,11 @@ world
 				"v" "5888 9728 3984"
 				"v" "5888 10240 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -49746,7 +49746,7 @@ world
 				"v" "5616 10240 4000"
 				"v" "5616 9728 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -50318,7 +50318,7 @@ world
 				"v" "5056 9744 4224"
 				"v" "5056 9744 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -50336,7 +50336,7 @@ world
 				"v" "5616 9712 4000"
 				"v" "5056 9712 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -50372,11 +50372,11 @@ world
 				"v" "5056 9712 4224"
 				"v" "5056 9712 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -50417,7 +50417,7 @@ world
 				"v" "5632 9744 4000"
 				"v" "5232 9744 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -50434,7 +50434,7 @@ world
 				"v" "5632 9712 3760"
 				"v" "5232 9712 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -50516,7 +50516,7 @@ world
 				"v" "5632 10096 4000"
 				"v" "5632 10080 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -50534,7 +50534,7 @@ world
 				"v" "5632 10080 4000"
 				"v" "5632 10096 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -50568,7 +50568,7 @@ world
 				"v" "5232 10080 4000"
 				"v" "5632 10080 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -50614,7 +50614,7 @@ world
 				"v" "5632 9360 4000"
 				"v" "5632 9344 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -50632,7 +50632,7 @@ world
 				"v" "5632 9344 4000"
 				"v" "5632 9360 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -50649,7 +50649,7 @@ world
 				"v" "5632 9360 4000"
 				"v" "5232 9360 4000"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -56274,7 +56274,7 @@ world
 				"v" "5504 8704 4496"
 				"v" "5120 8704 4496"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -56292,7 +56292,7 @@ world
 				"v" "5504 8688 4224"
 				"v" "5120 8688 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -56328,11 +56328,11 @@ world
 				"v" "5120 8688 4496"
 				"v" "5120 8688 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -56392,7 +56392,7 @@ world
 				"v" "5632 8704 4496"
 				"v" "5504 8704 4496"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -57672,7 +57672,7 @@ world
 				"v" "5616 9920 4240"
 				"v" "5616 9920 4176"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -57690,7 +57690,7 @@ world
 				"v" "5632 10464 4240"
 				"v" "5632 10464 4176"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -57790,7 +57790,7 @@ world
 				"v" "5616 9536 4240"
 				"v" "5616 9536 4176"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -57808,7 +57808,7 @@ world
 				"v" "5632 9920 4240"
 				"v" "5632 9920 4176"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -57908,7 +57908,7 @@ world
 				"v" "5616 9088 4240"
 				"v" "5616 9088 4176"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -57926,7 +57926,7 @@ world
 				"v" "5632 9536 4240"
 				"v" "5632 9536 4176"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -58026,11 +58026,11 @@ world
 				"v" "5632 9360 3984"
 				"v" "5632 10080 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -58044,7 +58044,7 @@ world
 				"v" "5616 10080 4176"
 				"v" "5616 9360 4176"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -58062,7 +58062,7 @@ world
 				"v" "5632 9360 4176"
 				"v" "5632 10080 4176"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -60640,7 +60640,7 @@ world
 				"v" "5632 11152 3984"
 				"v" "5632 11840 3984"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -60758,11 +60758,11 @@ world
 				"v" "5632 11840 4288"
 				"v" "5632 11840 3984"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "32"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -69072,7 +69072,7 @@ world
 				"v" "3088 8192 4240"
 				"v" "2576 8192 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -69190,7 +69190,7 @@ world
 				"v" "2576 8192 4512"
 				"v" "2576 8192 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -69308,7 +69308,7 @@ world
 				"v" "3568 8192 4240"
 				"v" "3088 8192 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -69426,7 +69426,7 @@ world
 				"v" "3088 8192 4512"
 				"v" "3088 8192 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -69544,7 +69544,7 @@ world
 				"v" "4112 8192 4240"
 				"v" "3568 8192 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -69662,7 +69662,7 @@ world
 				"v" "3568 8192 4512"
 				"v" "3568 8192 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -69780,7 +69780,7 @@ world
 				"v" "4624 8192 4240"
 				"v" "4112 8192 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -69898,7 +69898,7 @@ world
 				"v" "4112 8192 4496"
 				"v" "4112 8192 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -70016,7 +70016,7 @@ world
 				"v" "5136 8192 4240"
 				"v" "4624 8192 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -70134,7 +70134,7 @@ world
 				"v" "4624 8192 4496"
 				"v" "4624 8192 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -70252,7 +70252,7 @@ world
 				"v" "5504 8192 4240"
 				"v" "5136 8192 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -70370,7 +70370,7 @@ world
 				"v" "5136 8192 4496"
 				"v" "5136 8192 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -70470,7 +70470,7 @@ world
 				"v" "3568 11264 4512"
 				"v" "3568 11264 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -70588,7 +70588,7 @@ world
 				"v" "3088 11264 4240"
 				"v" "3568 11264 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -70706,7 +70706,7 @@ world
 				"v" "3088 11264 4512"
 				"v" "3088 11264 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -70824,7 +70824,7 @@ world
 				"v" "2576 11264 4240"
 				"v" "3088 11264 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -70960,7 +70960,7 @@ world
 				"v" "3968 11264 4512"
 				"v" "3968 11264 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -71078,7 +71078,7 @@ world
 				"v" "3568 11264 4240"
 				"v" "3968 11264 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -71196,8 +71196,8 @@ world
 				"v" "4608 11264 4512"
 				"v" "4608 11264 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
-			"uaxis" "[1 0 0 51.2] 0.625"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
+			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -71314,8 +71314,8 @@ world
 				"v" "3968 11264 4240"
 				"v" "4608 11264 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
-			"uaxis" "[1 0 0 51.2] 0.625"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
+			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -71432,8 +71432,8 @@ world
 				"v" "4992 11264 4512"
 				"v" "4992 11264 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
-			"uaxis" "[1 0 0 0] 0.375"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
+			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -71550,8 +71550,8 @@ world
 				"v" "4608 11264 4240"
 				"v" "4992 11264 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
-			"uaxis" "[1 0 0 0] 0.375"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
+			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -71668,7 +71668,7 @@ world
 				"v" "5504 11264 4512"
 				"v" "5504 11264 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -71786,7 +71786,7 @@ world
 				"v" "4992 11264 4240"
 				"v" "5504 11264 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -71832,8 +71832,8 @@ world
 				"v" "4720 10768 4224"
 				"v" "4608 10768 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
-			"uaxis" "[1 0 0 -13.9482] 0.4875"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
+			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -71850,8 +71850,8 @@ world
 				"v" "4608 10752 4224"
 				"v" "4720 10752 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
-			"uaxis" "[1 0 0 -13.9482] 0.4875"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
+			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -71904,11 +71904,11 @@ world
 				"v" "4720 10752 4000"
 				"v" "4720 10752 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -71950,8 +71950,8 @@ world
 				"v" "4608 10768 4000"
 				"v" "4608 10768 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
-			"uaxis" "[1 0 0 -13.9482] 0.4875"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
+			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -71968,8 +71968,8 @@ world
 				"v" "4096 10752 4224"
 				"v" "4608 10752 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
-			"uaxis" "[1 0 0 -13.9482] 0.4875"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
+			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -72186,7 +72186,7 @@ world
 				"v" "5504 10768 4224"
 				"v" "5184 10768 4224"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -72322,8 +72322,8 @@ world
 				"v" "5616 8704 4240"
 				"v" "5616 9728 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
-			"uaxis" "[0 1 0 16] 0.507937"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
+			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -72340,7 +72340,7 @@ world
 				"v" "5632 9728 4496"
 				"v" "5632 9728 4240"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -72440,8 +72440,8 @@ world
 				"v" "5616 9728 4496"
 				"v" "5616 9728 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
-			"uaxis" "[0 1 0 -80] 0.492308"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
+			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -72458,7 +72458,7 @@ world
 				"v" "5632 10752 4240"
 				"v" "5632 9728 4240"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -72576,8 +72576,8 @@ world
 				"v" "5872 10760 3984"
 				"v" "5872 10240 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
-			"uaxis" "[0 1 0 68.9216] 0.492424"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
+			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -72694,7 +72694,7 @@ world
 				"v" "5872 10240 3984"
 				"v" "5872 9728 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -72830,7 +72830,7 @@ world
 				"v" "5632 10432 3984"
 				"v" "5632 10768 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -72948,7 +72948,7 @@ world
 				"v" "5632 10096 3984"
 				"v" "5632 10432 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -73048,7 +73048,7 @@ world
 				"v" "5872 9728 3984"
 				"v" "5872 9232 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -73166,8 +73166,8 @@ world
 				"v" "5872 9232 3984"
 				"v" "5872 8704 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
-			"uaxis" "[0 1 0 -47.5149] 0.485294"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
+			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -73302,7 +73302,7 @@ world
 				"v" "5632 8928 3984"
 				"v" "5632 9344 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -73420,7 +73420,7 @@ world
 				"v" "5632 8688 3984"
 				"v" "5632 8928 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL4_MIDDLE"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -75408,8 +75408,8 @@ world
 				"v" "5632 8288 4288"
 				"v" "5632 8288 4000"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
-			"uaxis" "[0 1 0 -106.667] 0.488372"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
+			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -75526,7 +75526,7 @@ world
 				"v" "5632 7616 4000"
 				"v" "5632 8304 4000"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -75644,7 +75644,7 @@ world
 				"v" "5632 7616 4288"
 				"v" "5632 7616 4000"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -75762,7 +75762,7 @@ world
 				"v" "6144 7616 4000"
 				"v" "5632 7616 4000"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -76706,11 +76706,11 @@ world
 				"v" "3568 10752 4512"
 				"v" "3568 9728 4512"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "32"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -76824,11 +76824,11 @@ world
 				"v" "3568 9728 4512"
 				"v" "3568 8704 4512"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "32"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -76906,7 +76906,7 @@ world
 				"v" "5120 10256 4240"
 				"v" "5120 9728 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -76924,11 +76924,11 @@ world
 				"v" "5120 9728 4224"
 				"v" "5120 10256 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -77024,7 +77024,7 @@ world
 				"v" "5120 9728 4240"
 				"v" "5120 9200 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -77042,11 +77042,11 @@ world
 				"v" "5120 9200 4224"
 				"v" "5120 9728 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -77142,7 +77142,7 @@ world
 				"v" "4608 10256 4240"
 				"v" "4608 9728 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -77160,11 +77160,11 @@ world
 				"v" "4608 9728 4224"
 				"v" "4608 10256 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -77260,7 +77260,7 @@ world
 				"v" "4608 9728 4240"
 				"v" "4608 9200 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -77278,11 +77278,11 @@ world
 				"v" "4608 9200 4224"
 				"v" "4608 9728 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -77378,7 +77378,7 @@ world
 				"v" "5616 10256 4240"
 				"v" "5616 9728 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -77396,11 +77396,11 @@ world
 				"v" "5616 9728 4224"
 				"v" "5616 10256 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -77496,7 +77496,7 @@ world
 				"v" "5616 9728 4240"
 				"v" "5616 9200 4240"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "COALMINES/RED_WALL2_BOTTOM"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -77514,11 +77514,11 @@ world
 				"v" "5616 9200 4224"
 				"v" "5616 9728 4224"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -77850,11 +77850,11 @@ world
 				"v" "5632 8688 3984"
 				"v" "5872 8688 3984"
 			}
-			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01RED"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -78458,11 +78458,11 @@ world
 				"v" "6080 9728 4496"
 				"v" "6080 10144 4496"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
-			"uaxis" "[1 0 0 91.4287] 0.875"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
+			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -79166,11 +79166,11 @@ world
 				"v" "6080 9216 4496"
 				"v" "6080 9728 4496"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -94714,11 +94714,11 @@ world
 				"v" "6144 11840 4288"
 				"v" "6144 11840 3984"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "32"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -94950,7 +94950,7 @@ world
 				"v" "5632 11840 3984"
 				"v" "6144 11840 3984"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
+			"material" "PL_BARNBLITZ/WOODWALL_REDWORN001B"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -95168,11 +95168,11 @@ world
 				"v" "6080 10144 4496"
 				"v" "6080 10224 4496"
 			}
-			"material" "DEV/DEV_MEASUREGENERIC01B"
-			"uaxis" "[1 0 0 91.4287] 0.875"
+			"material" "JAPAN/WOOD/JAPANESE_REDWOOD02"
+			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
