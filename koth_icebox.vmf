@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8849"
-	"mapversion" "118"
+	"mapversion" "120"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -19,7 +19,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "118"
+	"mapversion" "120"
 	"classname" "worldspawn"
 	"coldworld" "1"
 	"detailmaterial" "detail/detailsprites_2fort"
@@ -2962,7 +2962,7 @@ world
 				"v" "9856 10240 4000"
 				"v" "9856 10240 4368"
 			}
-			"material" "CONCRETE/COMPUTERWALL005"
+			"material" "JAPAN/WOOD/JAPANESE_BLUEWOOD02"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -2990,9 +2990,9 @@ world
 				"v" "10240 10256 4368"
 				"v" "10112 10256 4368"
 			}
-			"material" "CONCRETE/COMPUTERWALL002"
+			"material" "CONCRETE/COMPUTERWALL005B"
 			"uaxis" "[1 0 0 0] 0.5"
-			"vaxis" "[0 0 -1 0] 0.5"
+			"vaxis" "[0 0 -1 -195] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -3080,7 +3080,7 @@ world
 				"v" "10112 10256 4000"
 				"v" "10112 10256 4368"
 			}
-			"material" "CONCRETE/COMPUTERWALL005"
+			"material" "JAPAN/WOOD/JAPANESE_BLUEWOOD02"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -3108,9 +3108,9 @@ world
 				"v" "9856 10256 4368"
 				"v" "9856 10256 4176"
 			}
-			"material" "CONCRETE/COMPUTERWALL002"
+			"material" "CONCRETE/COMPUTERWALL005B"
 			"uaxis" "[1 0 0 0] 0.5"
-			"vaxis" "[0 0 -1 0] 0.5"
+			"vaxis" "[0 0 -1 -195] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -3198,7 +3198,7 @@ world
 				"v" "10112 10256 4176"
 				"v" "9856 10256 4176"
 			}
-			"material" "CONCRETE/COMPUTERWALL005"
+			"material" "JAPAN/WOOD/JAPANESE_BLUEWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -3316,7 +3316,7 @@ world
 				"v" "9856 9200 4000"
 				"v" "9856 9200 4368"
 			}
-			"material" "CONCRETE/COMPUTERWALL005"
+			"material" "JAPAN/WOOD/JAPANESE_BLUEWOOD02"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -3362,9 +3362,9 @@ world
 				"v" "10112 9200 4368"
 				"v" "10240 9200 4368"
 			}
-			"material" "CONCRETE/COMPUTERWALL002"
+			"material" "CONCRETE/COMPUTERWALL005B"
 			"uaxis" "[1 0 0 0] 0.5"
-			"vaxis" "[0 0 -1 0] 0.5"
+			"vaxis" "[0 0 -1 -195] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -3434,7 +3434,7 @@ world
 				"v" "10112 9216 4000"
 				"v" "10112 9216 4368"
 			}
-			"material" "CONCRETE/COMPUTERWALL005"
+			"material" "JAPAN/WOOD/JAPANESE_BLUEWOOD02"
 			"uaxis" "[0 1 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -3552,7 +3552,7 @@ world
 				"v" "10112 9216 4176"
 				"v" "9856 9216 4176"
 			}
-			"material" "CONCRETE/COMPUTERWALL005"
+			"material" "JAPAN/WOOD/JAPANESE_BLUEWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -3670,7 +3670,7 @@ world
 				"v" "9728 9888 4000"
 				"v" "9728 9888 4368"
 			}
-			"material" "CONCRETE/COMPUTERWALL005"
+			"material" "JAPAN/WOOD/JAPANESE_BLUEWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -3788,7 +3788,7 @@ world
 				"v" "9728 9888 4176"
 				"v" "9728 9568 4176"
 			}
-			"material" "CONCRETE/COMPUTERWALL005"
+			"material" "JAPAN/WOOD/JAPANESE_BLUEWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 -1 0 0] 0.5"
 			"rotation" "0"
@@ -3888,9 +3888,9 @@ world
 				"v" "9728 9200 4000"
 				"v" "9728 9200 4368"
 			}
-			"material" "CONCRETE/COMPUTERWALL002"
+			"material" "CONCRETE/COMPUTERWALL005B"
 			"uaxis" "[1 0 0 0] 0.5"
-			"vaxis" "[0 0 -1 0] 0.5"
+			"vaxis" "[0 0 -1 -195] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -3906,7 +3906,7 @@ world
 				"v" "9744 9568 4000"
 				"v" "9744 9568 4368"
 			}
-			"material" "CONCRETE/COMPUTERWALL005"
+			"material" "JAPAN/WOOD/JAPANESE_BLUEWOOD02"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -29570,7 +29570,7 @@ world
 				"v" "7680 9192 4000"
 				"v" "8192 9192 4000"
 			}
-			"material" "JAPAN/WOOD/JAPANESE_BLUEWOOD02"
+			"material" "CUSTOMDEV/DEV_MEASUREGENERIC01BLU"
 			"uaxis" "[1 0 0 0] 0.5"
 			"vaxis" "[0 0 -1 0] 0.5"
 			"rotation" "0"
@@ -102131,9 +102131,9 @@ entity
 				"v" "10208 9200 4005.28"
 				"v" "9728 9200 4005.28"
 			}
-			"material" "CONCRETE/COMPUTERWALL005B"
+			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[1 0 0 0] 0.5"
-			"vaxis" "[0 0 -1 -195] 0.5"
+			"vaxis" "[0 0 -1 -67] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -102149,9 +102149,9 @@ entity
 				"v" "10208 10256 4384"
 				"v" "9728 10256 4384"
 			}
-			"material" "CONCRETE/COMPUTERWALL005B"
+			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[1 0 0 0] 0.5"
-			"vaxis" "[0 0 -1 -195] 0.5"
+			"vaxis" "[0 0 -1 -67] 0.5"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
